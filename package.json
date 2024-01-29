@@ -1,5 +1,5 @@
 {
-  "name": "chat-gpt",
+  "name": "openai-api-develop",
   "version": "1.0.0",
   "main": "index.mjs",
   "license": "MIT",
